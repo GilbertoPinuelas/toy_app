@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+body { padding-top: 120px; }
+a { color: #F09; }
+footer { margin-top: 250px; }
+table, td, th { vertical-align: middle;
+border: none;
+  }
+th { border-bottom: 1px solid #DDD; }
+footer, .navbar-brand {
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 2em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 13.2px;
+}
